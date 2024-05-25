@@ -1,0 +1,57 @@
+Tanjimul Hisham - Web Developer
+Contact Information:
+Email: mdtanjimulhisham@gmail.com
+Phone: +8801858385609
+GitHub: codexload
+Portfolio: https://tanjimulhisham.com/
+
+Professional Summary:
+Innovative and detail-oriented Web Developer with a passion for creating efficient and user-friendly web applications. Experienced in front-end and back-end development with a strong foundation in modern web technologies. Committed to continuous learning and improvement, and enthusiastic about collaborating with teams to bring creative web solutions to life.
+
+Technical Skills:
+Front-End Development: HTML, CSS, JavaScript, React, Angular, Bootstrap, SASS
+Back-End Development: Node.js, Express.js, PHP, Python, Ruby on Rails
+Databases: MySQL, PostgreSQL, MongoDB
+Version Control: Git, GitHub, Bitbucket
+Other Tools & Technologies: Webpack, Docker, AWS, Firebase, RESTful APIs, GraphQL
+
+Developed and maintained dynamic web applications using React, Node.js, and MongoDB.
+Led a team of junior developers, providing mentorship and code reviews to ensure high standards.
+Collaborated with designers and project managers to translate wireframes and mockups into interactive web pages.
+Optimized website performance, improving load times by 30%.
+Integrated third-party APIs to enhance application functionality.
+
+Assisted in the development of client websites, focusing on responsive design and cross-browser compatibility.
+Implemented front-end features using HTML, CSS, and JavaScript.
+Participated in client meetings to gather requirements and provide technical insights.
+Maintained and updated existing websites, fixing bugs and adding new features as needed.
+
+Certifications:
+Certified JavaScript Developer – [Programming Hero], [2024]
+AWS Certified Solutions Architect –  [Programming Hero], [2024]
+Full Stack Web Development Certification –  [Programming Hero], [2024]
+Projects:
+Portfolio Website
+
+Developed a personal portfolio website using HTML, CSS, and JavaScript to showcase my projects and skills.
+Implemented responsive design to ensure compatibility with various devices.
+E-commerce Platform
+
+Created a fully functional e-commerce website with user authentication, product listings, and a shopping cart using React and Node.js.
+Integrated payment gateway using Stripe API.
+Real-Time Chat Application
+
+Built a real-time chat application using Socket.io, Express.js, and MongoDB.
+Designed a user-friendly interface and implemented features such as private messaging and group chats.
+Personal Projects & Contributions:
+Open Source Contributions: Actively contributing to various open-source projects on GitHub.
+Tech Blog: Writing technical articles and tutorials on web development on [Your Blog/Medium].
+Community Involvement: Participating in local coding meetups and hackathons.
+Languages:
+English: Fluent
+[Bangla]: [Proficiency Level]
+Interests:
+Coding challenges and hackathons
+Reading tech blogs and staying updated with the latest in web development
+Traveling and exploring new cultures
+Feel free to download a PDF version of my CV or contact me for further information. Let's build something great together!
